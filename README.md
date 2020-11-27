@@ -1,0 +1,7 @@
+# integrative-project
+
+<h3>Link do wireframe para a primeira sprint:</h3>
+
+https://xd.adobe.com/view/e5f1d20f-8f36-448b-9593-d977bb119df7-b0a2/
+
+A ideia é realizar um site de leilões, estamos planejando ainda ideias de lances e como será a funcionalidade da plataforma.
