@@ -3,7 +3,7 @@
 A ideia é realizar um site de leilões, estamos planejando ainda ideias de lances e como será a funcionalidade da plataforma.
 
 
-## Wireframe V2 - 2ª sprint New
+## Wireframe V2 - 2ª sprint :new:
 
 Arquivos adicionados em PDF:
 - [ProjetoIntegradorV2](https://github.com/thiagosouza448/integrative-project/blob/main/ProjetoIntegradorV2.pdf)
