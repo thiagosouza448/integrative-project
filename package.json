@@ -1,0 +1,19 @@
+{
+  "name": "integrative-project",
+  "version": "1.0.0",
+  "description": "A ideia é realizar um site de leilões, estamos planejando ainda ideias de lances e como será a funcionalidade da plataforma.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagosouza448/integrative-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagosouza448/integrative-project/issues"
+  },
+  "homepage": "https://github.com/thiagosouza448/integrative-project#readme"
+}
